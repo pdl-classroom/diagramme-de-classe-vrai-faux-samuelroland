@@ -1,0 +1,15 @@
+@startuml
+title Variante ternaire
+scale 1.5
+class Professeur
+class Etudiant
+class Discipline
+
+<> Cours
+
+Professeur "*"-- Cours: enseigne >
+Cours -"*" Etudiant: suit <
+Cours --"*" Discipline: regroupe <
+
+@enduml
+
