@@ -16,7 +16,7 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 
 Représentez la même association avec la notation UML « petit losange » 
 
-**Voici ma solution**
+**Voici ma solution**  
 ![variante ternaire](uml/variante-ternaire.svg)
 
 - Quelles informations perd-on par rapport au diagramme ci-dessus ? 
